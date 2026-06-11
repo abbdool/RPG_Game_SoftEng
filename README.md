@@ -1,5 +1,6 @@
 Virus Apocalypse RPG 🦠
 Game RPG idle interaktif yang berfokus pada perkembangan karakter, pertempuran melawan virus, dan manajemen sumber daya.
+
 📥 Cara Memainkan
 Jika Anda ingin mencoba memainkan game ini:
 - Kunjungi tab Releases di sisi kanan halaman repositori ini.
